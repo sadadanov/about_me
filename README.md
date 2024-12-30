@@ -4,4 +4,4 @@
 Вроде не молод, но мне всегда интересно попробовать новое. 
 Например, **программирование**.
 
-<image src="https://github.com/sadadanov/about_me/blob/main/IMG_8999.JPG">
+<image src="IMG_8999.JPG">
